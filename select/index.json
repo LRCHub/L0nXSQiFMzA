@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ごめん、マジで",
+  "base_artist": "≠ME",
+  "createdAt": "2025-12-22T05:19:17.687106Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ごめん、マジで",
+      "artist": "≠ME",
+      "has_synced": false,
+      "path": "select/pl_01_ごめん、マジで_≠ME.txt"
+    }
+  ]
+}
